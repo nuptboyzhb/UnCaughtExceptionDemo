@@ -1,7 +1,7 @@
-Android SwipeRefreshLayoutDemo
+Android Catch the UnCaughtException
 ===================
 
-This is a demo of SwipeRefreshLayout
+ 抓取app的崩溃日志，并拦截系统的崩溃对话框，自定义显示。
 
 ----------
 Demo
@@ -9,7 +9,7 @@ Demo
 
 Demo Pic
 
-![image](https://github.com/nuptboyzhb/SwipeRefreshLayoutDemo/blob/master/demo/demo.png)
+![image](https://github.com/nuptboyzhb/UnCaughtExceptionDemo/blob/master/demo/demo.png)
 
 License
 -------------
